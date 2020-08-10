@@ -44,8 +44,8 @@ Não existem pré-requisitos para se aventurar na criação de jogos. Mas para p
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| Soundtrack | Aprenda os caminhos da composição das músicas e ambientações do jogo. | [Em Breve]() | <img alt="Badge em breve" |
-| SFX | Conteúdo sobre a criação de efeitos sonoros. | [Em Breve]() | <img alt="Badge em breve" |
+| Soundtrack | Aprenda os caminhos da composição das músicas e ambientações do jogo. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| SFX | Conteúdo sobre a criação de efeitos sonoros. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 ## Como contribuir
 
