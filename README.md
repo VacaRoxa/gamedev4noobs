@@ -35,6 +35,7 @@ Não existem pré-requisitos para se aventurar na criação de jogos. Mas para p
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
+| Direção de Arte | Todo bom design começa com um bom briefing e termina com algo que resolve problemas efetivamente. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | PixelArt | Produza a arte dos seus jogos de forma prática, rápida e objetiva com a ajuda de pixels. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Modelagem 3D | Utilize três dimensões para dar volume e vida aos seus jogos. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Vectorial | Uma das técnicas mais utilizada para cria ativos criativos para jogos. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
