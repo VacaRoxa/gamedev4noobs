@@ -52,7 +52,7 @@ Não existem pré-requisitos para se aventurar na criação de jogos. Mas para p
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| World Creator 2 | Aprenda a gerar mapas 3D de uma forma simples! | [Novout](https://github.com/Novout) | [Clique Aqui](https://github.com/Novout/wc4noobs) |
+| World Creator 2 | Aprenda a gerar mapas 3D de uma forma simples! | [Novout](https://github.com/Novout) | [Clique Aqui](https://github.com/Novout/worldcreator4noobs) |
 
 ## Como contribuir
 
