@@ -76,6 +76,11 @@ Caso tenha alguma dúvida durante esse processo, crie uma issue nesse repositór
 - **Fractions**: Game Dev (Unity & Unreal)
 - **Novout**: Web/Game Dev(Cry Engine & UE4)
 
+## Venha fazer parte da comunidade
+
+- [Vaca Roxa](https://discord.gg/vacaroxa)
+- [He4rt Devs](https://discord.gg/vxFwnd)
+
 <p align="left">
-   Made with :purple_heart:
+   Feito com :purple_heart:
 </p>
