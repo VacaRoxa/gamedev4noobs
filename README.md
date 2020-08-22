@@ -48,6 +48,12 @@ Não existem pré-requisitos para se aventurar na criação de jogos. Mas para p
 | Soundtrack | Aprenda os caminhos da composição das músicas e ambientações do jogo. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | SFX | Conteúdo sobre a criação de efeitos sonoros. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
+### 🛠️ Ferramentas
+
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| World Creator 2 | Aprenda a gerar mapas 3D de uma forma simples! | [Novout](https://github.com/Novout) | [Clique Aqui](https://github.com/Novout/worldcreator4noobs) |
+
 ## Como contribuir
 
 Para contribuir com esse projeto, basta seguir os passos abaixo:
@@ -66,6 +72,7 @@ Caso tenha alguma dúvida durante esse processo, crie uma issue nesse repositór
 - **Carol**: Desenvolvedora
 - **Luiz Gustavo**: Game Dev (Game Maker)
 - **Fractions**: Game Dev (Unity & Unreal)
+- **Novout**: Web/Game Dev(Cry Engine & UE4)
 
 <p align="left">
    Made with :purple_heart:
