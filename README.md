@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/github/license/VacaRoxa/gamedev4noobs" alt="gamedev4noobs">
 </p>
 
+<img src="https://media.discordapp.net/attachments/334713917907402763/746806176485867590/vaca.png?width=1224&height=582" alt="vaca astronauta">
+
 ## Objetivo
 <p align="left">
   Olá, sejam bem-vindos ao repositório _gamedev4noobs_ do Estúdio Vaca Roxa. O propósito desse repositório, além de contribuir para o projeto <a href="https://github.com/he4rt/4noobs">4noobs</a>, é ensinar o básico do desenvolvimento de jogos para iniciantes. Apresentando boas práticas e insumos para criar games incríveis.
