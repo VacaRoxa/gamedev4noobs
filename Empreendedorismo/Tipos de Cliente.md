@@ -44,4 +44,4 @@ Completando os exemplos, temos a Aquiris, empresa de Porto Alegre que começou c
 
 [](http://imasters.com.br/artigo/3371/e-commerce/b2b-b2c-b2g-entendendo-a-sopa-de-letras?trace=1519021197&source=single)
 
-ir para [As 5 forças de Porter](As%205%20forc%CC%A7as%20de%20Porter%20dedb26e1816741a9a974eda10b4ab50a.md)
+ir para [As 5 forças de Porter](As%205%20forc%CC%A7as%20de%20Porter.md)

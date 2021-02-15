@@ -11,13 +11,13 @@ No Brasil, a maioria das empresas de produção ou desenvolvimento de games aind
 
 [Tipos de Cliente](Empreendedorismo/Tipos%20de%20Cliente.md)
 
-[As 5 forças de Porter](Empreendedorismo2/As%205%20forc%CC%A7as%20de%20Porter.md)
+[As 5 forças de Porter](Empreendedorismo/As%205%20forc%CC%A7as%20de%20Porter.md)
 
-[Posicionamento Estratégico](Empreendedorismo/Posicionamento%20Estrate%CC%81gico%206deecb62cae64ff69d5109af502e4c2e.md)
+[Posicionamento Estratégico](Empreendedorismo/Posicionamento%20Estrate%CC%81gico.md)
 
-[Overview do Mercado](Empreendedorismo/Overview%20do%20Mercado%204674bff89b8b41cfb1c9c940e4be217d.md)
+[Overview do Mercado](Empreendedorismo/Overview%20do%20Mercado.md)
 
-[Canais de Distribuição](Empreendedorismo/Canais%20de%20Distribuic%CC%A7a%CC%83o%20326d8fc6025d47cca0af32cca0c64823.md)
+[Canais de Distribuição](Empreendedorismo/Canais%20de%20Distribuic%CC%A7a%CC%83o.md)
 
 ### Modelagem do negócio e desenvolvimento do Planejamento
 
