@@ -30,7 +30,7 @@ Não existem pré-requisitos para se aventurar na criação de jogos. Mas para p
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
 | Game Design | Entenda como projetar e construir os seus jogos, antes mesmo da primeira linha de código. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Empreendedorismo | Conheça o mercado e saiba como vender os seus jogos. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Empreendedorismo | Conheça o mercado e saiba como vender os seus jogos. | [Bakudas]() | [Clique Aqui](Empreendedorismo.md) |
 
 
 ### 🎨 Arte
