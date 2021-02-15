@@ -6,14 +6,17 @@
 
 <img src="https://media.discordapp.net/attachments/334713917907402763/746806176485867590/vaca.png?width=1224&height=582" alt="vaca astronauta">
 
+
 ## Objetivo
 <p align="left">
   Olá, sejam bem-vindos ao repositório _gamedev4noobs_ do Estúdio Vaca Roxa. O propósito desse repositório, além de contribuir para o projeto <a href="https://github.com/he4rt/4noobs">4noobs</a>, é ensinar o básico do desenvolvimento de jogos para iniciantes. Apresentando boas práticas e insumos para criar games incríveis.
 </p>
 
+
 ## Requisitos
 
 Não existem pré-requisitos para se aventurar na criação de jogos. Mas para poder aproveitar os conteúdos do repositório da melhor forma, seria interessante ter pelo uma noção básica de lógica de programação.
+
 
 ### 🎮 Engines
 
@@ -25,12 +28,13 @@ Não existem pré-requisitos para se aventurar na criação de jogos. Mas para p
 | Unreal | Uma das engines mais poderesas, conheça e estude para dominar essa engine. | [Fractions]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Godot | Engine open soucer que mais cresce na cena de desenvolvimento de jogos. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">|
 
+
 ### 🕹 Teoria, Design e Business
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
 | Game Design | Entenda como projetar e construir os seus jogos, antes mesmo da primeira linha de código. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Empreendedorismo | Conheça o mercado e saiba como vender os seus jogos. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Empreendedorismo | Conheça o mercado e saiba como vender os seus jogos. | [Bakudas]() | [Clique Aqui](Empreendedorismo.md) |
 
 
 ### 🎨 Arte
