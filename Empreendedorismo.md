@@ -40,3 +40,7 @@ No Brasil, a maioria das empresas de produção ou desenvolvimento de games aind
 [Informações Fiscais e Tributárias](Empreendedorismo/Informac%CC%A7o%CC%83es%20Fiscais%20e%20Tributa%CC%81rias.md)
 
 [Sucesso Sustentável Mínimo](Empreendedorismo/Sucesso%20Sustenta%CC%81vel%20Mi%CC%81nimo.md)
+
+<p align="left">
+   Feito com <img height="16" src="https://i.imgur.com/Hcqxxhx.gif">
+</p>

@@ -25,7 +25,7 @@ Não existem pré-requisitos para se aventurar na criação de jogos. Mas para p
 | Construct | Aprenda esta ferramenta super amigável para criação rápida de jogos e protótipos. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Game Maker | Introdução a criação de jogos utilizando o Game Maker Studio 2. | [Luiz Gustavo]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Unity | Aprenda a desenvolver jogos com a Unity a engine mais usado no mercado. | [Fractions]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Unreal | Uma das engines mais poderesas, conheça e estude para dominar essa engine. | [Fractions]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Unreal | Uma das engines mais poderesas, conheça e estude para dominar essa engine. | [Fractions]() [Skuba]() | [Clique Aqui](Unreal.md) |
 | Godot | Engine open soucer que mais cresce na cena de desenvolvimento de jogos. | [Em Breve]() | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">|
 
 
@@ -86,5 +86,5 @@ Caso tenha alguma dúvida durante esse processo, crie uma issue nesse repositór
 - [He4rt Devs](https://discord.gg/vxFwnd)
 
 <p align="left">
-   Feito com :purple_heart:
+   Feito com <img height="16" src="https://i.imgur.com/Hcqxxhx.gif">
 </p>
