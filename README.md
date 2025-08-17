@@ -33,7 +33,7 @@ Não existem pré-requisitos para se aventurar na criação de jogos. Mas para p
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| Game Design | Entenda como projetar e construir os seus jogos, antes mesmo da primeira linha de código. | [Bakudas]() | [Clique Aqui](GameDesign.md) |
+| Game Design | Entenda como projetar e construir os seus jogos, antes mesmo da primeira linha de código. | [Bakudas]() | [Clique Aqui](GameDesign/README.md) |
 | Empreendedorismo | Conheça o mercado e saiba como vender os seus jogos. | [Bakudas]() | [Clique Aqui](Empreendedorismo.md) |
 
 
