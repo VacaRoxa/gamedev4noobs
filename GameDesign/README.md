@@ -30,12 +30,18 @@ Este documento serve como o plano de estudos e a estrutura para o guia de game d
 1.  **Design de Sistemas Emergentes:** Criando jogos onde os jogadores criam suas próprias histórias.
 2.  **Monetização Ética:** Modelos de negócio que respeitam o jogador.
 3.  **Acessibilidade:** Projetando jogos para todos.
-4.  **O Futuro:** O papel da IA, Realidade Virtual/Aumentada no design de jogos.
+4.  **O Papel da IA:** O papel da IA, Realidade Virtual/Aumentada no design de jogos.
 
 ### **Parte 6: Ferramentas e Recursos**
 1.  **Software de Prototipagem:** Ferramentas que não exigem programação (Ex: Twine, Machinations).
 2.  **Motores de Jogo para Designers:** Introdução ao que é possível com Blueprints (Unreal) e ferramentas visuais da Godot/Unity.
-3.  **Comunidades e Leituras Recomendadas:** Onde continuar aprendendo.
+3.  **Comunidades e Leitura Recomendada:** Onde continuar aprendendo.
+
+### **Parte 7: Templates e Recursos Práticos**
+1.  **Templates de Documentação Essenciais:** One-Pager, GDD Leve, Análise de Jogo, Feedback de Playtest, .gitignore.
+2.  **Templates de Design de Sistemas e Conteúdo:** Curva de Progressão, Tabela de Economia, Fichas de Personagem/Inimigo/Chefe (Gameplay), Fichas de Nível/Missão, Bag de Mecânicas/Armadilhas/Perigos, Exemplos de Fluxogramas, Exemplos de Core Loops, Exemplos de Sistemas e Tabelas de Construção.
+3.  **Templates de Narrativa e Roteiro:** Ficha de Personagem (Narrativa), Ficha de Mundo/Lore, Template de Diálogo, Beat Sheet / Estrutura de História.
+4.  **Recursos Práticos Adicionais:** Ferramentas de Brainstorming Digital, Bancos de Assets Gratuitos, Ferramentas de Controle de Versão (Git).
 
 ---
 

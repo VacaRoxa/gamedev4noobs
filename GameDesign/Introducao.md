@@ -58,6 +58,18 @@ Seu portfólio é a sua principal ferramenta para conseguir um emprego na área 
 Participe de fóruns, grupos no Discord e eventos de desenvolvimento de jogos. A comunidade de gamedev é muito receptiva e disposta a ajudar.
 
 ---
+
+### Exercício Prático: Sua Jornada no Game Design
+
+1.  **Reflexão Pessoal (5 minutos):**
+    *   Por que você se interessa por game design? Qual é a sua principal motivação para aprender sobre isso?
+    *   Qual tipo de jogo você mais gosta de jogar? E qual tipo de jogo você sonha em criar?
+2.  **Defina seu Objetivo (5 minutos):**
+    *   Ao final deste guia, o que você espera ter aprendido ou ser capaz de fazer? Defina um objetivo claro para sua jornada de aprendizado.
+
+Este exercício é para você. Ele serve como um ponto de partida e um lembrete do seu propósito ao longo deste guia.
+
+---
 <p align="left">
    <a href="../GameDesign.md"><- Voltar</a>
 </p>
